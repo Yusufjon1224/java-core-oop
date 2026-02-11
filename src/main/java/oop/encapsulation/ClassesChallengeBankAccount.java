@@ -1,6 +1,6 @@
 package oop.encapsulation;
 
-public class ClassesChallenge {
+public class ClassesChallengeBankAccount {
 
     public static void main (String[] args) {
 
