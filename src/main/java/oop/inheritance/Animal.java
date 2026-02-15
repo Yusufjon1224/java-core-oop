@@ -1,8 +1,8 @@
 package oop.inheritance;
 
 public class Animal {
+    protected String type;
     private String size;
-    private String type;
     private double weight;
 
     public Animal() {
