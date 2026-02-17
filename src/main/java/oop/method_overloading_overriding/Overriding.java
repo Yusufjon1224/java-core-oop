@@ -7,6 +7,11 @@ Subclass provides its own implementation of a method that already exists in pare
 
 Java decides which method to call at runtime.
 
+Only inherited methods can be overridden, in other words, methods can be overridden only in child classes.
+Constructors and private methods cannot be overridden.
+Methods that are final cannot be overridden.
+
+
 ✔ Rules:
 
 • Same method name
